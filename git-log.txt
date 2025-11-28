@@ -1,0 +1,17 @@
+commit 8cf465496630b431cd13b74f28c1eccc48cbf16f
+Author: naj474 <naj474@usask.ca>
+Date:   Fri Nov 7 11:03:54 2025 -0600
+
+    Working version.
+
+commit 9251c792e60dbda62ea0da31a08edc274c0dbe5a
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Nov 6 21:48:15 2025 -0600
+
+    Implemented Alocate function and Free function.
+
+commit e7499eabbe9c13cdee69edd1128f274f5c322453
+Author: naj474 <naj474@usask.ca>
+Date:   Wed Nov 5 10:30:07 2025 -0600
+
+    Initial setup with list library, monitor files and the makefile.
